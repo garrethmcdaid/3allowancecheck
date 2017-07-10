@@ -5,14 +5,29 @@ Python script that checks your mobile data allowance in 3 Mobile
 
 You will need:
 
-*Python 2.7*
+**Python 2.7**
 
-*Selenium*
+**Selenium**
 
 sudo pip install selenium
 
-*PhantomJS*
+**PhantomJS**
 
 http://phantomjs.org/download.html
 
 (Ensure you have correct version for your OS)
+
+# How to monitor
+
+Execute the script via Crond and publish the output to a file on a web server somewhere.
+
+Then, install the following Android app:
+
+https://play.google.com/store/apps/details?id=net.ayukawayen.infotracker&hl=en
+
+This app lets you monitor the content of a URL. If will alert when the content changes.
+
+There are probably similar apps for iPhone.
+
+
+
