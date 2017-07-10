@@ -1,6 +1,10 @@
 # 3allowancecheck
 Python script that checks your mobile data allowance in 3 Mobile
 
+Why you might need this:
+
+http://www.nightbluefruit.com/blog/2017/07/breaking-up-3s-mobile-broadband-scam/
+
 # Requirements
 
 You will need:
