@@ -5,13 +5,13 @@ Python script that checks your mobile data allowance in 3 Mobile
 
 You will need:
 
-1. Python 2.7
+*Python 2.7*
 
-2. Selenium
+*Selenium*
 
 sudo pip install selenium
 
-3. PhantomJS
+*PhantomJS*
 
 http://phantomjs.org/download.html
 
